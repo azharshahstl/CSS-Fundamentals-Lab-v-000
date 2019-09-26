@@ -28,7 +28,7 @@ figcaption {
 }
 
 #details h3 {
-  display: block; 
+  display: inline-block; 
 
 }
 
