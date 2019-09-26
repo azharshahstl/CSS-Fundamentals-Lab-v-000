@@ -27,8 +27,8 @@ figcaption {
   margin: 0 auto;
 }
 
-h3 {
-  display: inline-block; 
+#details h3 {
+  display: float-left; 
 
 }
 
